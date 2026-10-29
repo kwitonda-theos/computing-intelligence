@@ -1,7 +1,7 @@
-# computing-intelligence: Telco Customer Data Analysis
+# computing-intelligence labs
 ## Project Objectives
 
-- Explore and understand the Telco dataset.
+- Explore and understand datasets.
 - Perform data preprocessing, including handling missing values, removing duplicates, and transforming data where necessary.
 - Analyze relevant features and identify patterns in the dataset.
 - Prepare the processed data for machine learning.
